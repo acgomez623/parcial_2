@@ -1,0 +1,22 @@
+footer{
+    align-items: center;
+    text-align: center;
+}
+
+.redes{
+    padding-top: 40px;
+    background-color: rgb(0, 128, 78);
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 210px;
+}
+
+
+.img_redes a{
+    padding: 2px;
+}
+
+#politica{
+   color: white;
+}

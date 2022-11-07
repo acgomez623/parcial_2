@@ -1,0 +1,16 @@
+.btn_biblioteca{
+    background-color: rgb(245, 134, 52) !important;
+    border: transparent; 
+}
+.btn_biblioteca:hover{
+    background-color: rgb(0, 128, 78) !important;
+    border: transparent; 
+}
+.btn_cie{
+    background-color: #8CCEC6 !important;  
+    border: transparent; 
+}
+.btn_cie:hover{
+    background-color: rgb(0, 128, 78) !important;
+    border: transparent; 
+}
